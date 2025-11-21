@@ -80,6 +80,7 @@ button{
 	outline: none !important; 
 }
 
+
 button.fb {
 	border: none;
 	background: #3b5998;
@@ -139,6 +140,12 @@ button.form-btn.dx {
 	border-radius: 0 0 5px 0;
 	background-color: #A54657;
 	color: #fff;
+}
+p {
+	color: #FFF7AE;
+	margin-left: 500px;
+	font-family: 'Dosis';
+	font-size: 35px;
 }
 
 input {
